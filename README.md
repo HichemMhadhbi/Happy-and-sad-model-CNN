@@ -21,7 +21,7 @@ Vous pouvez installer toutes les dépendances nécessaires en utilisant `pip` :
 pip install tensorflow opencv-python matplotlib
 Installation
 Clonez le dépôt :
-git clone https://github.com/HichemMhadhbi/Classification_Project.git
+git clone https://github.com/HichemMhadhbi/Happy-and-sad-model-CNN.git 
 Naviguez dans le répertoire du projet :
 cd Classification_Project
 Assurez-vous que toutes les dépendances sont installées en utilisant pip :
